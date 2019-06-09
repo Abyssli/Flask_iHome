@@ -7,6 +7,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_session import Session
 from flask_wtf import CSRFProtect
 from logging.handlers import RotatingFileHandler
+from ihome.utils.commons import ReConverter
 
 
 # 数据库
@@ -17,7 +18,7 @@ redis_store = None
 
 
 # 设置日志的记录级别
-logging.basicConfig(level=logging.DEBUG) #调试debug级别
+logging.basicConfig(level=logging.INFO) #调试debug级别
 
 # 配置日志信息
 # 创建日志记录器，指明日志保存的路径、每个日志文件的最大大小、保存的日志文件个数上限
@@ -60,8 +61,15 @@ def create_app(config_name):
     # 为flask补充csrf防护
     CSRFProtect(app)
 
+    # 为flask添加自定义的转换器
+    app.url_map.converters["re"] = ReConverter
+
     from ihome import api_1_0
     # 注册蓝图
     app.register_blueprint(api_1_0.api,url_prefix="/api/v1.0")
+
+    # 注册提供静态文件的蓝图
+    from ihome import web_html
+    app.register_blueprint(web_html.html)
 
     return app

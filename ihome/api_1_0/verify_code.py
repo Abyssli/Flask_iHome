@@ -22,7 +22,10 @@ def get_image_code(image_code_id):
     # 业务逻辑处理
     # 生成验证码图片
     # 名字,真实文本,图片数据
-    name,text,image_data = captcha.generate_captcha()
+    name ,text,image_data = captcha.generate_captcha()
+    # print('-----------------')
+    # print(text,image_data)
+    # image_data += '.png'
     # 将验证码真实值与编号保存到redis中,设置有效期
     # redis： 字符串 列表 哈希 set
     # "key":xxx

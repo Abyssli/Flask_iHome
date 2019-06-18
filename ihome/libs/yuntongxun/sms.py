@@ -1,15 +1,16 @@
 # coding=utf-8
 
-from CCPRestSDK import REST
+from .CCPRestSDK import REST
+
 
 # 主帐号
-accountSid = '8aaf0708568d4143015697b0f4960888'
+accountSid = '8a216da86b2bc78f016b41f258de0c68'
 
 # 主帐号Token
-accountToken = '42d3191f0e6745d6a9ddc6c795da0bed'
+accountToken = '4ba5f293a7fb4e6eb1986c9eabdd316b'
 
 # 应用Id
-appId = '8aaf0708568d4143015697b0f56e088f'
+appId = '8a216da86b2bc78f016b41f259470c6f'
 
 # 请求地址，格式如下，不需要写http://
 serverIP = 'app.cloopen.com'
@@ -20,10 +21,11 @@ serverPort = '8883'
 # REST版本号
 softVersion = '2013-12-26'
 
-  # 发送模板短信
-  # @param to 手机号码
-  # @param datas 内容数据 格式为列表 例如：['12','34']，如不需替换请填 ''
-  # @param $tempId 模板Id
+
+# 发送模板短信
+# @param to 手机号码
+# @param datas 内容数据 格式为数组 例如：{'12','34'}，如不需替换请填 ''
+# @param $tempId 模板Id
 
 
 class CCP(object):
@@ -32,8 +34,9 @@ class CCP(object):
     instance = None
 
     def __new__(cls):
-        # 判断CCP类有没有已经创建好的对象，如果没有，创建一个对象，并且保存
-        # 如果有，则将保存的对象直接返回
+        """单例模式"""
+        # 判断CCP类有没有已经创建好的对象,如果没有创建一个对象,并且保存下来,
+        # 如果有,则将保存的对象直接返回
         if cls.instance is None:
             obj = super(CCP, cls).__new__(cls)
 
@@ -43,35 +46,35 @@ class CCP(object):
             obj.rest.setAppId(appId)
 
             cls.instance = obj
-
         return cls.instance
 
     def send_template_sms(self, to, datas, temp_id):
-        """"""
+        """
+
+        :param to: 手机号
+        :param datas: 内容数据
+        :param temp_id: 模板ID
+        :return:
+        """
+
         result = self.rest.sendTemplateSMS(to, datas, temp_id)
         # for k, v in result.iteritems():
         #
         #     if k == 'templateSMS':
         #         for k, s in v.iteritems():
-        #             print '%s:%s' % (k, s)
+        #             print ('%s:%s' % (k, s))
         #     else:
-        #         print '%s:%s' % (k, v)
-        # smsMessageSid:ff75e0f84f05445ba08efdd0787ad7d0
-        # dateCreated:20171125124726
-        # statusCode:000000
+        #         print ('%s:%s' % (k, v))
         status_code = result.get("statusCode")
         if status_code == "000000":
-            # 表示发送短信成功
+            # 表示发送成功
             return 0
         else:
             # 发送失败
             return -1
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     ccp = CCP()
-    ret = ccp.send_template_sms("18516952650", ["1234", "5"], 1)
+    ret = ccp.send_template_sms("19923369365", ["1234", "5"], 1)
     print(ret)
-
-    
-   

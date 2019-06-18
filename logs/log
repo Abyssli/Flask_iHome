@@ -479,3 +479,11 @@ INFO _internal.py:122  * Detected change in '/home/tarena/py_import/Flask_iHome/
 INFO _internal.py:122  * Restarting with stat
 WARNING _internal.py:122  * Debugger is active!
 INFO _internal.py:122  * Debugger PIN: 199-486-247
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [18/Jun/2019 15:32:23] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [18/Jun/2019 15:32:23] "GET /api/v1.0/image_codes/79991b8c-2d54-438d-9037-d7aa8673a56d HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [18/Jun/2019 15:34:43] "GET /api/v1.0/sms_codes/13750050640?image_code_id=79991b8c-2d54-438d-9037-d7aa8673a56d&image_code=KQAW HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [18/Jun/2019 15:35:39] "GET /api/v1.0/sms_codes/13750050640?image_code_id=79991b8c-2d54-438d-9037-d7aa8673a56d&image_code=KQppp HTTP/1.1" 200 -

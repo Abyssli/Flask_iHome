@@ -1,4 +1,3 @@
-# coding:utf-8
 from . import api
 from ihome.utils.captcha.captcha import captcha
 from ihome import redis_store,constants,db
@@ -90,7 +89,7 @@ def get_sms_code(mobile):
         current_app.logger.error(e)
 
     # 与用户填写的值进行对比
-    if real_image_code.lower() != image_code.lower():
+    if real_image_code.decode().lower() != image_code.lower():
         # 表示用户填写错误
         return jsonify(errno=RET.DATAERR, errmsg="图片验证码错误")
 

@@ -1,4 +1,3 @@
-# coding:utf-8
 from werkzeug.routing import BaseConverter
 
 # 定义正则表达式

@@ -1,7 +1,7 @@
 # Flask-爱家租房网项目
 此项目是学习Flask框架时按照传智播客Python教程所学习的项目,该项目按照爱家租房网开发的实际上线项目,实现所有基本功能,采用前后端分离的方式进行开发  
 __住:此项目纯属个人学习项目,不作任何商业用途__  
-### [项目详细介绍目录](https://github.com/yuanwenq/iHome-python/blob/master/SUMMARY.md)
+### [项目详细介绍目录](https://github.com/linyj1130/Flask_iHome/blob/master/SUMMARY.md)
 ### 技术栈
 python + flask + mysql + redis + celery
 ### 目标功能

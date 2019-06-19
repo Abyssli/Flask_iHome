@@ -2,7 +2,231 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dde513fe-9e3c-4185-b998-c6586adb4ab3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/favicon.ico" afterPath="$PROJECT_DIR$/ihome/static/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/images/home01.jpg" afterPath="$PROJECT_DIR$/ihome/static/images/home01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/images/home02.jpg" afterPath="$PROJECT_DIR$/ihome/static/images/home02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/images/home03.jpg" afterPath="$PROJECT_DIR$/ihome/static/images/home03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/images/houseicon_sprite.png" afterPath="$PROJECT_DIR$/ihome/static/images/houseicon_sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/images/landlord01.jpg" afterPath="$PROJECT_DIR$/ihome/static/images/landlord01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/images/logo@128x59.png" afterPath="$PROJECT_DIR$/ihome/static/images/logo@128x59.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot" afterPath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterPath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff" afterPath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/uniform/images/bg-input-focus.png" afterPath="$PROJECT_DIR$/ihome/static/plugins/uniform/images/bg-input-focus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/uniform/images/bg-input.png" afterPath="$PROJECT_DIR$/ihome/static/plugins/uniform/images/bg-input.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/uniform/images/sprite.png" afterPath="$PROJECT_DIR$/ihome/static/plugins/uniform/images/sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/uniform/images/sprite_original.png" afterPath="$PROJECT_DIR$/ihome/static/plugins/uniform/images/sprite_original.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/__init__.py" afterPath="$PROJECT_DIR$/ihome/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/constants.py" afterPath="$PROJECT_DIR$/ihome/constants.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/models.py" afterPath="$PROJECT_DIR$/ihome/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/booking.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/booking.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/detail.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/detail.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/index.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/login.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/main.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/my.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/my.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/myhouse.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/myhouse.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/newhouse.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/newhouse.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/orders.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/orders.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/profile.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/profile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/register.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/register.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/ihome/search.css" afterPath="$PROJECT_DIR$/ihome/static/css/ihome/search.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/css/reset.css" afterPath="$PROJECT_DIR$/ihome/static/css/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/auth.html" afterPath="$PROJECT_DIR$/ihome/static/html/auth.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/booking.html" afterPath="$PROJECT_DIR$/ihome/static/html/booking.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/detail.html" afterPath="$PROJECT_DIR$/ihome/static/html/detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/index.html" afterPath="$PROJECT_DIR$/ihome/static/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/login.html" afterPath="$PROJECT_DIR$/ihome/static/html/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/lorders.html" afterPath="$PROJECT_DIR$/ihome/static/html/lorders.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/my.html" afterPath="$PROJECT_DIR$/ihome/static/html/my.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/myhouse.html" afterPath="$PROJECT_DIR$/ihome/static/html/myhouse.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/newhouse.html" afterPath="$PROJECT_DIR$/ihome/static/html/newhouse.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/orders.html" afterPath="$PROJECT_DIR$/ihome/static/html/orders.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/profile.html" afterPath="$PROJECT_DIR$/ihome/static/html/profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/register.html" afterPath="$PROJECT_DIR$/ihome/static/html/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/html/search.html" afterPath="$PROJECT_DIR$/ihome/static/html/search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/auth.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/auth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/booking.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/booking.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/detail.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/detail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/index.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/login.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/login.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/lorders.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/lorders.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/my.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/my.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/myhouse.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/myhouse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/newhouse.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/newhouse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/orders.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/orders.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/profile.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/profile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/register.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/register.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/ihome/search.js" afterPath="$PROJECT_DIR$/ihome/static/js/ihome/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/jquery.blockui.min.js" afterPath="$PROJECT_DIR$/ihome/static/js/jquery.blockui.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/jquery.form.min.js" afterPath="$PROJECT_DIR$/ihome/static/js/jquery.form.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/jquery.min.js" afterPath="$PROJECT_DIR$/ihome/static/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/js/template.js" afterPath="$PROJECT_DIR$/ihome/static/js/template.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css.map" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css.map" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.css.map" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css.map" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ar-tn.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ar-tn.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ar.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ar.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.az.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.az.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.bg.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.bg.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.bs.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.bs.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ca.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ca.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.cs.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.cs.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.cy.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.cy.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.da.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.da.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.de.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.de.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.el.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.el.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-AU.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-AU.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-GB.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-GB.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-IE.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-IE.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-NZ.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-NZ.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-ZA.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.en-ZA.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.eo.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.eo.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.es.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.es.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.et.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.et.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.eu.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.eu.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fa.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fa.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fi.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fi.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fo.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fo.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fr-CH.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fr-CH.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fr.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.fr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.gl.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.gl.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.he.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.he.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hr.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hu.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hu.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hy.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.hy.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.id.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.id.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.is.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.is.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.it-CH.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.it-CH.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.it.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.it.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ja.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ja.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ka.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ka.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kh.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kh.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kk.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kk.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.km.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.km.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ko.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ko.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kr.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.kr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.lt.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.lt.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.lv.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.lv.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.me.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.me.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.mk.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.mk.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.mn.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.mn.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ms.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ms.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nb.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nb.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nl-BE.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nl-BE.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nl.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.nl.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.no.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.no.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pl.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pl.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pt-BR.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pt-BR.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pt.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.pt.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ro.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ro.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.rs-latin.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.rs-latin.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.rs.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.rs.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ru.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.ru.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sk.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sk.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sl.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sl.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sq.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sq.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sr-latin.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sr-latin.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sr.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sv.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sv.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sw.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.sw.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.th.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.th.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.tr.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.tr.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.uk.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.uk.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.vi.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.vi.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-TW.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-TW.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/LICENSE" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/README.md" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/css/bootstrap-switch.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/css/bootstrap-switch.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/css/bootstrap-switch.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/css/bootstrap-switch.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/js/bootstrap-switch.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/js/bootstrap-switch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/js/bootstrap-switch.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap-switch/js/bootstrap-switch.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/HELP-US-OUT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/screen-reader.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/screen-reader.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_screen-reader.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/License.txt" afterPath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/License.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/Readme.txt" afterPath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/Readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/fonts/Simple-Line-Icons.dev.svg" afterPath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/fonts/Simple-Line-Icons.dev.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/fonts/Simple-Line-Icons.svg" afterPath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/fonts/Simple-Line-Icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/icons-lte-ie7.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/icons-lte-ie7.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/simple-line-icons.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/simple-line-icons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/simple-line-icons.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/simple-line-icons/simple-line-icons.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/swiper/css/swiper.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/swiper/css/swiper.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/swiper/css/swiper.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/swiper/css/swiper.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/swiper/js/swiper.jquery.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/swiper/js/swiper.jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/swiper/js/swiper.jquery.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/swiper/js/swiper.jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/uniform/README.md" afterPath="$PROJECT_DIR$/ihome/static/plugins/uniform/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/uniform/css/uniform.default.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/uniform/css/uniform.default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/uniform/css/uniform.default.min.css" afterPath="$PROJECT_DIR$/ihome/static/plugins/uniform/css/uniform.default.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/uniform/css/uniform.default.scss" afterPath="$PROJECT_DIR$/ihome/static/plugins/uniform/css/uniform.default.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/uniform/jquery.uniform.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/uniform/jquery.uniform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ihome/static/plugins/uniform/jquery.uniform.min.js" afterPath="$PROJECT_DIR$/ihome/static/plugins/uniform/jquery.uniform.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/log" afterPath="$PROJECT_DIR$/logs/log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/note.txt" afterPath="$PROJECT_DIR$/note.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,23 +238,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
+      <file leaf-file-name="passport.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ihome/api_1_0/passport.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#0#17#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.py">
+      <file leaf-file-name="verify_code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ihome/api_1_0/verify_code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="-879">
+              <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -39,74 +263,30 @@
       <file leaf-file-name="note.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/note.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="1020">
+              <caret line="51" column="10" lean-forward="false" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="constants.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ihome/constants.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="41">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="book.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book.json">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ihome/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="verify_code.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ihome/api_1_0/verify_code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
-              <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="passport.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ihome/api_1_0/passport.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2320">
-              <caret line="122" column="60" lean-forward="false" selection-start-line="122" selection-start-column="60" selection-end-line="122" selection-end-column="60" />
+            <state relative-caret-position="-793">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ihome/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="e#14#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ihome/static/html/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-              <folding>
-                <element signature="n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,6 +298,40 @@
             <state relative-caret-position="2720">
               <caret line="136" column="10" lean-forward="false" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ihome/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1060">
+              <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web_html.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ihome/web_html.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="e#16#69#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,15 +353,19 @@
       <list>
         <option value="$PROJECT_DIR$/ihome/libs/yuntongxun/CCPRestSDK.py" />
         <option value="$PROJECT_DIR$/manage.py" />
-        <option value="$PROJECT_DIR$/ihome/constants.py" />
         <option value="$PROJECT_DIR$/ihome/utils/commons.py" />
         <option value="$PROJECT_DIR$/ihome/utils/response_code.py" />
         <option value="$PROJECT_DIR$/ihome/api_1_0/verify_code.py" />
-        <option value="$PROJECT_DIR$/ihome/models.py" />
-        <option value="$PROJECT_DIR$/ihome/__init__.py" />
         <option value="$PROJECT_DIR$/ihome/api_1_0/passport.py" />
         <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/ihome/constants.py" />
+        <option value="$PROJECT_DIR$/ihome/models.py" />
+        <option value="$PROJECT_DIR$/ihome/static/js/ihome/login.js" />
+        <option value="$PROJECT_DIR$/ihome/static/html/login.html" />
+        <option value="$PROJECT_DIR$/ihome/__init__.py" />
+        <option value="$PROJECT_DIR$/ihome/static/js/ihome/index.js" />
+        <option value="$PROJECT_DIR$/note.txt" />
       </list>
     </option>
   </component>
@@ -184,7 +402,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -198,13 +415,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flask_iHome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flask_iHome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ihome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flask_iHome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flask_iHome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ihome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api_1_0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$USER_HOME$/other/iHome-python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -391,7 +641,7 @@
     <frame x="65" y="-4" width="1297" height="619" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25737053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20079681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -423,29 +673,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ihome/api_1_0/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,9 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -501,9 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -511,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,6 +743,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -533,6 +758,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -548,13 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ihome/web_html.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ihome/libs/yuntongxun/接口说明.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3000">
@@ -567,6 +786,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -589,6 +809,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="213" column="41" lean-forward="true" selection-start-line="213" selection-start-column="41" selection-end-line="213" selection-end-column="41" />
+          <folding>
+            <element signature="e#104#117#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -596,6 +819,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -610,42 +834,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-384">
           <caret line="176" column="68" lean-forward="false" selection-start-line="176" selection-start-column="68" selection-end-line="176" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ihome/utils/commons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ihome/constants.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ihome/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ihome/api_1_0/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ihome/static/js/jquery.min.js">
+    <entry file="file://$PROJECT_DIR$/ihome/utils/commons.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -659,21 +852,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ihome/api_1_0/passport.py">
+    <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2320">
-          <caret line="122" column="60" lean-forward="false" selection-start-line="122" selection-start-column="60" selection-end-line="122" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="20">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ihome/api_1_0/verify_code.py">
+    <entry file="file://$PROJECT_DIR$/node_modules/gitbook-plugin-toggle-chapters/book/toggle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gitbook-plugin-toggle-chapters/book/toggle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gitbook-plugin-toggle-chapters/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -681,29 +912,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihome/static/html/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="31" column="45" lean-forward="false" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihome/static/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihome/api_1_0/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ihome/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="1060">
+          <caret line="61" column="22" lean-forward="false" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
+    <entry file="file://$PROJECT_DIR$/ihome/web_html.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#16#69#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihome/static/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/ihome/my.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/ihome/booking.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="51" column="10" lean-forward="false" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihome/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -715,67 +999,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
+    <entry file="file://$PROJECT_DIR$/ihome/static/js/ihome/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="470">
+          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/gitbook-plugin-toggle-chapters/book/toggle.js">
+    <entry file="file://$PROJECT_DIR$/ihome/static/js/ihome/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="860">
+          <caret line="67" column="9" lean-forward="true" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/gitbook-plugin-toggle-chapters/book/toggle.css">
+    <entry file="file://$PROJECT_DIR$/ihome/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-793">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ihome/api_1_0/verify_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-879">
+          <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/gitbook-plugin-toggle-chapters/README.md">
+    <entry file="file://$PROJECT_DIR$/ihome/api_1_0/passport.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/book.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="360">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

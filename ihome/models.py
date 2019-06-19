@@ -1,6 +1,6 @@
 from datetime import datetime
 from . import db
-from werkzeug.security import generate_password_hash
+from werkzeug.security import generate_password_hash, check_password_hash
 
 
 class BaseModel(object):
@@ -48,6 +48,13 @@ class User(BaseModel, db.Model):
     #     """对密码进行加密"""
     #     self.password_hash = generate_password_hash(origin_password)
 
+    def check_password(self, passwd):
+        """
+        检验密码的正确性
+        :param passwd:  用户登录时填写的原始密码
+        :return: 如果正确，返回True， 否则返回False
+        """
+        return check_password_hash(self.password_hash, passwd)
 
 
 class Area(BaseModel, db.Model):
@@ -58,6 +65,14 @@ class Area(BaseModel, db.Model):
     id = db.Column(db.Integer, primary_key=True)  # 区域编号
     name = db.Column(db.String(32), nullable=False)  # 区域名字
     houses = db.relationship("House", backref="area")  # 区域的房屋
+
+    def to_dict(self):
+        """将对象转换为字典"""
+        d = {
+            "aid": self.id,
+            "aname": self.name
+        }
+        return d
 
 
 # 房屋设施表，建立房屋与设施的多对多关系

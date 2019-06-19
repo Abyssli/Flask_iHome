@@ -51,9 +51,9 @@ def register():
         current_app.logger.error(e)
 
     # 判断用户填写短信验证码的正确性
-    if real_sms_code != sms_code:
-        return jsonify(errno=RET.DATAERR, errmsg="短信验证码错误")
 
+    if real_sms_code.decode() != sms_code:
+        return jsonify(errno=RET.DATAERR, errmsg="短信验证码错误")
     # 判断用户的手机号是否注册过
     # try:
     #     user = User.query.filter_by(mobile=mobile).first()

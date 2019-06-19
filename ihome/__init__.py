@@ -1,4 +1,3 @@
-#coding:utf-8
 import redis
 import logging
 from flask import Flask
@@ -38,8 +37,8 @@ logging.basicConfig(level=logging.DEBUG)  # 调试debug级
 # 工厂模式
 def create_app(config_name):
     """
-        创建flask的应用对象
-    :param config_name:str 配置模式的名称 ("develop" , "product")
+    创建flask的应用对象
+    :param config_name: str  配置模式的模式的名字 （"develop",  "product"）
     :return:
     """
     app = Flask(__name__)
@@ -55,7 +54,7 @@ def create_app(config_name):
     global redis_store
     redis_store = redis.StrictRedis(host=config_class.REDIS_HOST, port=config_class.REDIS_PORT)
 
-    # 利用flsak-session,将session数据保存到redis中
+    # 利用flask-session，将session数据保存到redis中
     Session(app)
 
     # 为flask补充csrf防护
@@ -64,9 +63,9 @@ def create_app(config_name):
     # 为flask添加自定义的转换器
     app.url_map.converters["re"] = ReConverter
 
-    from ihome import api_1_0
     # 注册蓝图
-    app.register_blueprint(api_1_0.api,url_prefix="/api/v1.0")
+    from ihome import api_1_0
+    app.register_blueprint(api_1_0.api, url_prefix="/api/v1.0")
 
     # 注册提供静态文件的蓝图
     from ihome import web_html

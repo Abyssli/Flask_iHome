@@ -1,4 +1,3 @@
-# coding:utf-8
 
 from flask import Blueprint,current_app,make_response
 from flask_wtf import csrf

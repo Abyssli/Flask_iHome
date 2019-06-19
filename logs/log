@@ -798,3 +798,401 @@ INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 11:16:51] "POST /api/v1.0/sessi
 INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 11:16:59] "GET /api/v1.0/image_codes/7479f3c1-e15d-4587-bf2b-18e1ab3424ad HTTP/1.1" 200 -
 INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 11:17:14] "GET /api/v1.0/sms_codes/13750050640?image_code=w9db&image_code_id=7479f3c1-e15d-4587-bf2b-18e1ab3424ad HTTP/1.1" 200 -
 INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 11:17:32] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 11:25:07] "GET /register.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 11:25:07] "GET /api/v1.0/image_codes/cb4040e0-ec7d-42d7-82b1-89f24e6d3a8d HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 11:25:18] "GET /api/v1.0/sms_codes/13750050642?image_code=kmg6&image_code_id=cb4040e0-ec7d-42d7-82b1-89f24e6d3a8d HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 11:25:59] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 11:53:32] "GET /api/v1.0/image_codes/7ff9f176-ad6d-4c99-97c0-912a0cfb1878 HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:07:10] "GET /my.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:07:10] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:07:10] "GET /static/css/ihome/my.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:07:10] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:07:10] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:07:10] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:07:14] "GET /api/logout HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:08:24] "GET /api/logout HTTP/1.1" 404 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:09:26] "GET /api/logout HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:13:27] "GET /api/logout HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:17:26] "GET /api/logout HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:19:32] "GET /api/logout HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/web_html.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:20:48] "GET /api/logout HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/web_html.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/web_html.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:27:40] "GET /profile.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:27:40] "GET /static/css/ihome/profile.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:27:40] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 14:27:40] "GET /static/js/ihome/profile.js HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/utils/commons.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/utils/commons.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 16:57:34] "GET /profile.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 16:57:58] "POST /api/profile/avatar HTTP/1.1" 405 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:25:16] "POST /api/profile/avatar HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:32:45] "POST /api/profile/avatar HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:38:11] "GET /profile.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:38:11] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:38:30] "POST /api/users/avatar HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:43:32] "POST /api/v1.0/sessions HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:46:29] "GET /api/v1.0/image_codes/2c3b48f2-a9b1-40a2-b884-a8a6f862c219 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:46:46] "GET /api/v1.0/sms_codes/13750050641?image_code=vhqx&image_code_id=2c3b48f2-a9b1-40a2-b884-a8a6f862c219 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:47:02] "GET /api/v1.0/image_codes/d16dbf5c-e2b3-41ff-b77d-f1bf854e972c HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:47:08] "GET /api/v1.0/image_codes/924bca73-5fa2-4561-a40c-bbc28cdf35e4 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:47:13] "GET /api/v1.0/sms_codes/13750050640?image_code=qy4b&image_code_id=924bca73-5fa2-4561-a40c-bbc28cdf35e4 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:47:32] "POST /api/v1.0/users HTTP/1.1" 405 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:53:33] "POST /api/users/avatar HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:55:15] "POST /api/users/avatar HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:57:08] "POST /api/users/avatar HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:58:05] "GET /profile.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:58:05] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 17:58:13] "POST /profile.html HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:00:32] "GET /profile.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:00:33] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:00:37] "POST /api/v1.0/avatar HTTP/1.1" 405 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:03:39] "GET /api/v1.0/ppp/ HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:03:42] "GET /api/v1.0/ppp HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:03:50] "GET /ppp HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:04:16] "GET /api/v1.0/ppp HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:04:37] "GET /api/v1.0/ppp HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:04:39] "GET /api/v1.0/ppp HTTP/1.1" 404 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:39:21] "GET /api/v1.0/ppp HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:40:31] "GET /api/v1.0/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:41:11] "GET /api/v1.0/ppp HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:42:00] "GET /api/v1.0/ppp HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:42:13] "GET /api/v1.0/index HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:43:23] "GET /api/v1.0/ppp HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:43:28] "GET /api/v1.0/index HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/api_1_0/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:43:52] "GET /api/v1.0/ppp HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/api_1_0/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:45:02] "POST /api/v1.0/avatar HTTP/1.1" 405 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/api_1_0/profile.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:52:44] "POST /api/v1.0/avatar HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /profile.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/css/ihome/profile.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/js/ihome/profile.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /favicon.ico HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:50] "GET /api/v1.0/user HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:51] "GET /login.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:51] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:51] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:51] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:54:58] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:55:07] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:55:14] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:55:32] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:55:32] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:55:38] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:55:38] "GET /api/v1.0/image_codes/2247e176-d1c0-4782-8b70-1eccb9ce920c HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:55:39] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:55:53] "GET /api/v1.0/sms_codes/13750050640?image_code=gwvr&image_code_id=2247e176-d1c0-4782-8b70-1eccb9ce920c HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:56:17] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:57:11] "GET /api/v1.0/sms_codes/13750050640?image_code=gwvr&image_code_id=2247e176-d1c0-4782-8b70-1eccb9ce920c HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:57:16] "GET /api/v1.0/image_codes/576281db-cfd9-448d-a7ff-f826fdc2aae5 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:57:25] "GET /api/v1.0/sms_codes/13750050640?image_code=byqy&image_code_id=576281db-cfd9-448d-a7ff-f826fdc2aae5 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:57:27] "GET /api/v1.0/image_codes/b2c72877-b65a-4c10-86f8-ffebf33d6a1b HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:57:34] "GET /api/v1.0/sms_codes/13750050640?image_code=7mne&image_code_id=b2c72877-b65a-4c10-86f8-ffebf33d6a1b HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:58:15] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:59:10] "GET /api/v1.0/user HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:59:30] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 18:59:53] "GET /api/v1.0/image_codes/129a1bcb-07d7-4ac4-a69d-0af4e902595d HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:00:04] "GET /api/v1.0/sms_codes/13750050642?image_code=bjca&image_code_id=129a1bcb-07d7-4ac4-a69d-0af4e902595d HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:00:59] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/api_1_0/profile.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/api_1_0/passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:122  * Restarting with stat
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:07:46] "GET /api/v1.0/image_codes/5f87d84f-7b65-473d-8b26-838a02341b6a HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:07:58] "GET /api/v1.0/sms_codes/13750050642?image_code=pcag&image_code_id=5f87d84f-7b65-473d-8b26-838a02341b6a HTTP/1.1" 200 -
+INFO csrf.py:251 The CSRF session token is missing.
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:08:33] "POST /api/v1.0/users HTTP/1.1" 400 -
+INFO csrf.py:251 The CSRF session token is missing.
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:08:38] "POST /api/v1.0/users HTTP/1.1" 400 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:09:05] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 304 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/__init__.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:11:21] "GET /api/v1.0/image_codes/e717d065-7584-45c4-ad8e-e0ce69ad4ef2 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:11:46] "GET /api/v1.0/sms_codes/13750050642?image_code=e3cb&image_code_id=e717d065-7584-45c4-ad8e-e0ce69ad4ef2 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:11:50] "GET /api/v1.0/image_codes/6fdc01ee-38a0-4016-9629-8d27998d2de3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:11:59] "GET /api/v1.0/sms_codes/13750050642?image_code=bqcp&image_code_id=6fdc01ee-38a0-4016-9629-8d27998d2de3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:12:22] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/api_1_0/passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/api_1_0/passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122  * Detected change in '/home/tarena/Flask_iHome/ihome/api_1_0/passport.py', reloading
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:00] "GET /api/v1.0/image_codes/5be12880-766b-49ad-b53b-12914ed8a738 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:09] "GET /api/v1.0/sms_codes/13750050642?image_code=amn5&image_code_id=5be12880-766b-49ad-b53b-12914ed8a738 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:27] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:28] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:28] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:28] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:28] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:28] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:28] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:28] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:28] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:28] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:28] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:45] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:45] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:45] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:15:51] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:22] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:16:23] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:17:02] "POST /api/v1.0/avatar HTTP/1.1" 405 -
+INFO _internal.py:122  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:122  * Restarting with stat
+WARNING _internal.py:122  * Debugger is active!
+INFO _internal.py:122  * Debugger PIN: 210-498-201
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:18:53] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:18:54] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:18:56] "GET /index HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:19:02] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:19:03] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:19:19] "GET /api/logout HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:19:43] "POST /api/profile/name HTTP/1.1" 405 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:22] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:23] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:23] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:27] "GET /login.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:27] "GET /static/css/ihome/login.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:27] "GET /static/js/ihome/login.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:59] "GET /register.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:59] "GET /static/css/ihome/register.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:59] "GET /static/js/ihome/register.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:20:59] "GET /api/v1.0/image_codes/afde860b-18f1-4972-812b-ddd7e02c0c93 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:22:00] "GET /api/v1.0/sms_codes/13750050643?image_code=hnhc&image_code_id=afde860b-18f1-4972-812b-ddd7e02c0c93 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:22:23] "POST /api/v1.0/users HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:22:23] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:22:23] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:22:42] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:22:45] "GET /my.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:22:45] "GET /static/css/ihome/my.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:22:45] "GET /static/js/ihome/my.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:22:59] "DELETE /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:22:59] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:23:00] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:23:18] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:23:18] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:23:18] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:23:23] "GET /profile.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:23:23] "GET /static/css/ihome/profile.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:23:23] "GET /static/js/jquery.form.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:23:23] "GET /static/js/ihome/profile.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:23:23] "GET /api/v1.0/user HTTP/1.1" 500 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:23:37] "POST /api/v1.0/users/avatar HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:24:03] "PUT /api/v1.0/users/name HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:24:11] "DELETE /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:24:11] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:24:12] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:24:30] "POST /api/v1.0/sessions HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:24:30] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:24:30] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:24:41] "DELETE /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:24:41] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:24:41] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:17] "GET /index.html HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/css/reset.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/swiper/css/swiper.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/bootstrap-datepicker/css/bootstrap-datepicker.min.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/css/ihome/main.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/css/ihome/index.css HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/swiper/js/swiper.jquery.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/js/template.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/js/ihome/index.js HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/images/logo@128x59.png HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/images/home01.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/images/home02.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/images/home03.jpg HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/font-awesome/fonts/fontawesome-webfont.ttf?v=4.6.3 HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:25:18] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:26:05] "GET /index.html HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:26:05] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:26:13] "GET / HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:26:13] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:26:17] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:28:57] "GET / HTTP/1.1" 304 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:28:58] "GET /api/v1.0/session HTTP/1.1" 200 -
+INFO _internal.py:122 127.0.0.1 - - [19/Jun/2019 19:28:58] "GET /static/plugins/swiper/js/maps/swiper.jquery.min.js.map HTTP/1.1" 404 -

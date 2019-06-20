@@ -34,6 +34,8 @@ python manage.py db downgrade 回退修改
 
 # 项目启动
 python manage.py runserver
+# 启动celery
+celery -A ihome.tasks.main worker -l info
 ```
 
 - [redis文档](redisdoc.com/index.html)

@@ -406,7 +406,7 @@ def get_house_list():
 
     # 查询数据库
     # 补充排序条件
-    if sort_key == "booking":  # 入住做多
+    if sort_key == "booking":  # 入住最多
         house_query = House.query.filter(*filter_params).order_by(House.order_count.desc())
     elif sort_key == "price-inc":
         house_query = House.query.filter(*filter_params).order_by(House.price.asc())
